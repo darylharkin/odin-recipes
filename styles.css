@@ -12,7 +12,21 @@ li {
     background-color: gray;
 }
 
-a:hover {
-    font-size: 100px;
-    <em></em>
+
+div {
+    font-size: 30px;
+    font-family: 'Georgia';
+    text-align: center;
+}
+
+.disclaimer {
+    font-size: 6px;
+    color: red;
+}
+
+#alternatives {
+    text-align: left;
+    font-family: 'Tahoma';
+    color: limegreen;
+    font-size: small;
 }
